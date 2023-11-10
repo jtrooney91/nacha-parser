@@ -23,7 +23,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"bitbucket.org/fluidpay/nacha/internal/iso3166"
+	"github.com/jtrooney91/nacha-parser/internal/iso3166"
 	"github.com/moov-io/iso4217"
 )
 

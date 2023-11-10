@@ -20,7 +20,7 @@ package ach
 import (
 	"strings"
 
-	"bitbucket.org/fluidpay/nacha/internal/usabbrev"
+	"github.com/jtrooney91/nacha-parser/internal/usabbrev"
 )
 
 // BatchMTE holds the BatchHeader, BatchControl, and EntryDetail for Machine Transfer Entry (MTE) entries.

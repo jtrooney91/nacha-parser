@@ -18,7 +18,7 @@
 package ach
 
 import (
-	"bitbucket.org/fluidpay/nacha/internal/usabbrev"
+	"github.com/jtrooney91/nacha-parser/internal/usabbrev"
 )
 
 // BatchSHR holds the BatchHeader and BatchControl and all EntryDetail for SHR Entries.

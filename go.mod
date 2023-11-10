@@ -1,4 +1,4 @@
-module bitbucket.org/fluidpay/nacha
+module github.com/jtrooney91/nacha-parser
 
 go 1.21.2
 

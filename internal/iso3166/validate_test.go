@@ -20,7 +20,7 @@ package iso3166_test
 import (
 	"testing"
 
-	"bitbucket.org/fluidpay/nacha/internal/iso3166"
+	"github.com/jtrooney91/nacha-parser/internal/iso3166"
 	"github.com/stretchr/testify/assert"
 )
 
